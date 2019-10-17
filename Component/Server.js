@@ -1,0 +1,1 @@
+export default Server = "http://smartindoo.id/tanaman_obat/";
